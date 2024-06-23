@@ -158,19 +158,20 @@ a:hover {
     max-width: 100%;
     background-color: #f0f0f0;
     padding: 20px;
-    text-align: left;
+    text-align: center;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
     padding-right: 100px;
 }
 
 .project-item img {
-    max-width: 100%;
+    max-width: 80%;
     border-radius: 8px;
 }
 
 .project-description {
     margin-top: 15px;
+    text-align: left;
 }
 
 .project-description h3 {
@@ -198,18 +199,6 @@ a:hover {
 .project-description .btn:hover {
     background-color: #ddbdd3;
 
-}
-#juniors{
-    width: 40%;
-}
-#garba{
-    width: 30%;
-}
-#studio{
-    width: 30%;
-}
-#campus{
-    height: 70%;
 }
 .title{
     font-size: 40px;
