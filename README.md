@@ -1,2 +1,3 @@
-# Welcome! <3
-Check out my website [here](https://as0501.github.io/anjalismith/index.html)!
+# Hi, I'm Anjali! <3
+୨୧ I'm a computer science major @ Barnard College, Columbia University    
+୨୧ Check out my website [here](https://anjalismith.github.io/anjalismith/)!
